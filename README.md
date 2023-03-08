@@ -25,4 +25,10 @@ There are *different levels of headers*:
 3. `Inline code` -- Quoting the text that you want to make it inline code by `.
 
 #### *Links/Images*
-use of links to other websites
+
+1. **Hyperlink** -- The format for hyperlink is writting some clickable text inside [] and then the URL in a () after the square brackets.
+2. **Image** -- The format for Image is ! followed by [] with some alternative texts for the image and then the URL in a ().
+
+![Ending GIF](https://media.tenor.com/ZZsIjKTVgFQAAAAM/luoxiaohei-cat.gif)
+
+[More information about HTML](https://www.w3schools.com/html/html_intro.asp)
